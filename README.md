@@ -4,7 +4,7 @@ A violence detection classification model with Convolutional Neural Network to c
 It was created for Computer Vision assignment, with the aim of classifying violent images automatically
 from social media to **save** human moderators' sanity. 
 
-Many thanks to [Dr Zampoglou](https://scholar.google.gr/citations?user=YNFYlTgAAAAJ&hl=en), [@markzampoglou](https://github.com/markzampoglou) and [Dr Papadopoulos](https://scholar.google.gr/citations?user=GuhyORoAAAAJ&hl=en), [@kleinmind](https://github.com/kleinmind)
+Many thanks to [Dr Zampoglou](https://scholar.google.gr/citations?user=YNFYlTgAAAAJ&hl=en), [@markzampoglou](https://github.com/markzampoglou) and [Dr Papadopoulos](https://scholar.google.gr/citations?user=GuhyORoAAAAJ&hl=en), [@kleinmind](https://github.com/kleinmind) for agreeing to provide the dataset that was used in the research paper.
 
 Dataset from research paper: [A Web-Based Service for Disturbing Image Detection](https://link.springer.com/chapter/10.1007/978-3-319-51814-5_37)
 
