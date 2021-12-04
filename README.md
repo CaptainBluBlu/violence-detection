@@ -1,5 +1,7 @@
 # Violence Detection 
 
+**Note: Dataset is not included**
+
 A violence detection classification model with Convolutional Neural Network to classify violent images.
 It was created for Computer Vision assignment, with the aim of classifying violent images automatically
 from social media to **save** human moderators' sanity. 
